@@ -1,1 +1,1 @@
-This contains the frontend part of LiveMart fullstack project
+link to backend: https://github.com/EmbersOS/live-mart-backend
